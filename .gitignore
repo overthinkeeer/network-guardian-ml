@@ -1,6 +1,7 @@
 data/*.csv
 data/*.pcap
-venv/
+.venv/
+.idea/
 .ipynb_checkpoints/
 __pycache__/
 *.bin
