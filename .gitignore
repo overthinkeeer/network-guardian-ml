@@ -3,3 +3,6 @@ data/*.pcap
 venv/
 .ipynb_checkpoints/
 __pycache__/
+*.bin
+*.pkl
+*.pickle
